@@ -1,0 +1,22 @@
+border {
+    border: 1.5px solid transparent;
+}
+
+.border:hover {
+    border: 1.5px solid white;
+}
+
+hr {
+    margin: 30px;
+    width: 95%;
+}
+
+.btn {
+    font-size: 0.85rem;
+    color: #CCCCCC;
+    border: none;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
